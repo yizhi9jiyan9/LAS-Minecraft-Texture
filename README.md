@@ -6,12 +6,13 @@
 - ~~兼容xkrd~~
 - 重绘所有纹理
 - 彻底重写所有底层代码及模型（虽然只会写史山）
-- ## Texture plan：
+- ## Texture plans：
 - ~~Redstone lamp~~
 - ~~piston&slime piston~~
 - ~~redstone wire~~
 - ~~redstone block~~
 - ~~tnt~~
+- ~~observer~~
 - button
 - chest
 - shulker
