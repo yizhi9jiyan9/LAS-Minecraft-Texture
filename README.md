@@ -16,8 +16,8 @@
 - button
 - chest
 - shulker
-- slime block
-- honey block
+- ~~slime block~~
+- ~~honey block~~
 - lever
 - note block
 - plate
