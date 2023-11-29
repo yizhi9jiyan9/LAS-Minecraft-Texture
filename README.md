@@ -19,7 +19,7 @@
 - ~~slime block~~
 - ~~honey block~~
 - lever
-- note block
+- ~~note block~~
 - plate
-- hopper
+- ~~hopper~~
 - composter
