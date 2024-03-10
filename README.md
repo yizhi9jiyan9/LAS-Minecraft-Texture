@@ -10,22 +10,7 @@
 - 重绘所有纹理
 - 彻底重写所有底层代码及模型（虽然只会写史山）
 - ## Texture plans/纹理计划：
-- ~~Redstone lamp~~
-- ~~piston&slime piston~~
-- ~~redstone wire~~
-- ~~redstone block~~
-- ~~tnt~~
-- ~~observer~~
-- button
-- chest
-- shulker
-- ~~slime block~~
-- ~~honey block~~
-- lever
-- ~~note block~~
-- plate
-- ~~hopper~~
-- composter
+无 None
 ### 更新日志：  
 
 2023.12.17：   
