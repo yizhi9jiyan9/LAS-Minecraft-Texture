@@ -1,5 +1,7 @@
 # LAS Minecraft Texture
-此项目已存档，请前往新的重构版：https://github.com/United-Alien-Club/The-Alien-Texture  
+此项目已存档，请前往新的重构版：[Re-LASMinecraftTexture](https://github.com/LazyAlienServer/Re-LASMinecraftTexture)  
+存档于 2024.12.8  
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
